@@ -1,15 +1,5 @@
-# Adafruit Thermal Printer Library (Python 3)
+# Repository moved to Codeberg
 
-During a Raspberry PI project, I wanted to connect the [Adafruit Mini Thermal Receipt Printer](https://www.adafruit.com/product/597) directly to the Raspberry PI. Therfore, I ported the [existing Arduino C library](https://github.com/adafruit/Adafruit-Thermal-Printer-Library) to Python 3.
+Due to GitHub's AI policy changes and the permanent nudges to use Copilot for my coding, I decided to move away all my repositories from GitHub :broken_heart:. After 16 years on this platform it is time to say goodbye :disappointed:.
 
-The main usage of the library is currently for our [Gify-Box](https://github.com/informatik-mannheim/gify-box).
-
-
-## Required Libraries
-
-This library uses the following other libraries:
-
-* qrcode[pil]
-* imageio
-* pyserial
-* PIL
+The code can now be found at Codeberg: [https://codeberg.org/thomsmits/adafruit-thermal-printer-python-library](https://codeberg.org/thomsmits/adafruit-thermal-printer-python-library)
